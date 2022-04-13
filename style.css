@@ -1,0 +1,222 @@
+.flex-containeruno{
+
+    background-color: gainsboro;
+    
+    border-style:groove;
+    
+    
+}
+
+.flex-containerdos{
+
+    
+width: 110%;
+margin-left: 70px;
+    
+    
+    
+}
+
+.card {
+
+
+    width: 400px;
+    
+}
+
+.state{
+
+    width: 100px;
+    margin-bottom: 100px;
+}
+
+.cvc{
+
+    width: 200px;
+    margin-left: 150px;
+    box-sizing: 100px;
+    
+}
+
+.amount{
+
+    width: 100px;
+}
+
+.firsname {
+    width: 0px;
+}
+
+.message{
+    
+    width: 600px;
+    height: 150px;
+    margin-left: 500px;
+    display: flex;
+    
+}
+
+
+
+.redbox{
+    background-color: rgb(213, 152, 164); 
+    color: red;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 3px;
+    border-style:groove; 
+}
+
+.fila{
+
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    margin: 15px;
+    
+}
+
+.filados{
+
+    display: flex;
+    justify-content: space-between;
+    width: 90%
+    
+    
+    
+}
+
+.filatres{
+
+    display:flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.hijo{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    
+    
+    
+}
+
+.hijodos{
+    display:flex;
+    flex-direction: column;
+    width: 33%;
+    
+
+    
+}
+
+.hijotres{
+    display:flex;
+    flex-direction: column;
+    width: 33%;
+    
+    
+}
+
+.hijocuatro{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    
+}
+
+.hijocinco{
+    display: flex;
+    flex-direction: column;
+    
+}
+.hijoseis{
+    display: flex;
+    flex-direction:column ;
+
+}
+
+.hijosiete{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.hijoocho{
+    display: flex;
+    flex-direction: column ;
+    width: 50%;
+    
+}
+
+.contenedorpadre{
+
+    margin: 0 10% 0 10%;
+    border: 300px ;
+}
+
+.hijonueve{
+    display: flex;
+    flex-direction: column;
+    
+
+ 
+ 
+ 
+
+}
+
+.cancelar{
+    margin-left: 780px;
+    background-color: grey;
+    border-style:groove;
+}
+
+.send{
+    margin-left: 780px;
+    background-color: grey;
+    border-style:groove;
+
+}
+
+.todo{
+
+    border: 100px;
+}
+
+.cuadro{
+
+    border-style: groove;
+    
+}
+
+.amount{
+
+    width: 100%;
+
+}
+
+.weaccept{
+
+    height: 10px;
+    
+}
+
+.tarjetados{
+
+    display: flex;
+    flex-direction: column ;
+    width: 50%;
+    margin-left: 48%;
+    
+
+}
+
+.cancelysend{
+    margin-left: 80%;
+    
+
+}
